@@ -1,3 +1,5 @@
+### Copiado do projeto abaixo
+
 ### android-floating-widget
 Android Floating Widget Service
 
